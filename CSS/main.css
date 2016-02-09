@@ -1,0 +1,9 @@
+* {
+	padding: 10px;
+	margin: 10px;
+	font-family: arial, serif;
+}
+
+canvas {
+	border: 4px solid #333;
+}
